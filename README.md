@@ -1,2 +1,3 @@
 # CRUD Informatica Docker Compose
-# Universidad Distrital Francisco Jose de Caldas Facultad Tecnologica
+# Universidad Distrital Francisco Jose de Caldas
+# Especialización en Ingenieria de Software
